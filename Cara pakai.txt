@@ -1,0 +1,5 @@
+!. buat database dengan nama "klinik"
+2. import file klinik.sql ke dalam database klinik
+3. silahkan buka atau akses lewat localhost/klinik/dashboard
+
+note: belum ada sistem login, akan di update secepatnya bersama dengan fitur pembayaran..insya allah kelar sebelum 31 agustus
